@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amon/Desktop/10Academy/sales-prediction/mlruns/1/cfaa3d9d7d4245aebc866a8094d87cd0/artifacts
+end_time: 1627500696123
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: cfaa3d9d7d4245aebc866a8094d87cd0
+run_uuid: cfaa3d9d7d4245aebc866a8094d87cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627500665082
+status: 3
+tags: []
+user_id: amon
